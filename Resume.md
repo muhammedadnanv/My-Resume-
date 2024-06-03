@@ -1,6 +1,4 @@
-To make your resume Applicant Tracking System (ATS) friendly, it’s important to structure it properly and use keywords that are likely to match job descriptions. Here's a revised version that enhances clarity, keywords, and formatting for ATS compliance:
 
----
 
 **Muhammad Adnan**
 
@@ -76,6 +74,3 @@ GitHub: [Zakat Calculator](https://github.com/muhammedadnanv/Zakat-Calculator)
 - **Languages:** English, Malayalam
 - **Hobbies:** Coding, Blogging, Traveling
 
----
-
-This format ensures that your resume is clean, well-structured, and rich with relevant keywords to improve your chances of passing through an ATS. Let me know if you need any further adjustments!
